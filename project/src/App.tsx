@@ -1,5 +1,5 @@
 import React from 'react';
-import ScriptEditor from './components/ScriptEditor';
+import ScriptEditor from './components/ScriptEditor1';
 
 function App() {
   return (
